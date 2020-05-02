@@ -3,6 +3,7 @@ import SearchBar from "../search-bar/search-bar.component";
 import SearchResults from "../search-results/search-results.component";
 import Playlist from "../play-list/play-list.component";
 import Spotify from "../../util/Spotify";
+import { ReactComponent as Logo } from "../App/assests/original (3).svg";
 
 import "./App.css";
 
@@ -66,7 +67,9 @@ class App extends React.Component {
     return (
       <div>
         <h1>
-          Ja<span className="highlight">mmm</span>ing
+          Crown &nbsp;
+          <Logo /> &nbsp;Beats
+          {/* Ja<span className="highlight">mmm</span>ing */}
         </h1>
         <div className="App">
           <SearchBar onSearch={this.search} />
