@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dec34411ed9e50a70e8fc4d66cc5a3e7",
+    "revision": "bc157b5c5f2ddd5463bdd043eec43455",
     "url": "/jammming/index.html"
   },
   {
-    "revision": "532b1d6e5254a16019b7",
-    "url": "/jammming/static/css/main.390e9d1a.chunk.css"
+    "revision": "56bfb7c46dc0fbc85407",
+    "url": "/jammming/static/css/main.159e3424.chunk.css"
   },
   {
     "revision": "d52f2ed3b95106549720",
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jammming/static/js/2.f619cd02.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "532b1d6e5254a16019b7",
-    "url": "/jammming/static/js/main.ad83508a.chunk.js"
+    "revision": "56bfb7c46dc0fbc85407",
+    "url": "/jammming/static/js/main.f29c5fc3.chunk.js"
   },
   {
     "revision": "8982e6a878b4fdae3e5f",
     "url": "/jammming/static/js/runtime-main.364f2a86.js"
   },
   {
-    "revision": "37be7357a5f8583073df7e0aec787eaa",
-    "url": "/jammming/static/media/background_photo_desktop.37be7357.jpg"
+    "revision": "ed28accb7dd58a0469bff983503ff07e",
+    "url": "/jammming/static/media/original (3).ed28accb.svg"
   }
 ]);
