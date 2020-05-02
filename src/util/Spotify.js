@@ -1,5 +1,5 @@
 const clientId = "36c9f5b4f9204de386049ffe74664b15";
-const redirectUri = "https://mmichaud3.github.io/crown-beats";
+const redirectUri = "https://mmichaud3.github.io/crown-beats/";
 
 let accessToken;
 
