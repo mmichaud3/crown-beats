@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jammming/static/css/main.159e3424.chunk.css",
-    "main.js": "/jammming/static/js/main.f29c5fc3.chunk.js",
-    "main.js.map": "/jammming/static/js/main.f29c5fc3.chunk.js.map",
-    "runtime-main.js": "/jammming/static/js/runtime-main.364f2a86.js",
-    "runtime-main.js.map": "/jammming/static/js/runtime-main.364f2a86.js.map",
-    "static/js/2.f619cd02.chunk.js": "/jammming/static/js/2.f619cd02.chunk.js",
-    "static/js/2.f619cd02.chunk.js.map": "/jammming/static/js/2.f619cd02.chunk.js.map",
-    "index.html": "/jammming/index.html",
-    "precache-manifest.4719a56f858a6164ed793fd23bb59aaa.js": "/jammming/precache-manifest.4719a56f858a6164ed793fd23bb59aaa.js",
-    "service-worker.js": "/jammming/service-worker.js",
-    "static/css/main.159e3424.chunk.css.map": "/jammming/static/css/main.159e3424.chunk.css.map",
-    "static/js/2.f619cd02.chunk.js.LICENSE.txt": "/jammming/static/js/2.f619cd02.chunk.js.LICENSE.txt",
-    "static/media/original (3).ed28accb.svg": "/jammming/static/media/original (3).ed28accb.svg"
+    "main.css": "/crown-beats/static/css/main.159e3424.chunk.css",
+    "main.js": "/crown-beats/static/js/main.bba19775.chunk.js",
+    "main.js.map": "/crown-beats/static/js/main.bba19775.chunk.js.map",
+    "runtime-main.js": "/crown-beats/static/js/runtime-main.453edefe.js",
+    "runtime-main.js.map": "/crown-beats/static/js/runtime-main.453edefe.js.map",
+    "static/js/2.f619cd02.chunk.js": "/crown-beats/static/js/2.f619cd02.chunk.js",
+    "static/js/2.f619cd02.chunk.js.map": "/crown-beats/static/js/2.f619cd02.chunk.js.map",
+    "index.html": "/crown-beats/index.html",
+    "precache-manifest.20babad00259479d2f3683782d9a89a8.js": "/crown-beats/precache-manifest.20babad00259479d2f3683782d9a89a8.js",
+    "service-worker.js": "/crown-beats/service-worker.js",
+    "static/css/main.159e3424.chunk.css.map": "/crown-beats/static/css/main.159e3424.chunk.css.map",
+    "static/js/2.f619cd02.chunk.js.LICENSE.txt": "/crown-beats/static/js/2.f619cd02.chunk.js.LICENSE.txt",
+    "static/media/original (3).ed28accb.svg": "/crown-beats/static/media/original (3).ed28accb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.364f2a86.js",
+    "static/js/runtime-main.453edefe.js",
     "static/js/2.f619cd02.chunk.js",
     "static/css/main.159e3424.chunk.css",
-    "static/js/main.f29c5fc3.chunk.js"
+    "static/js/main.bba19775.chunk.js"
   ]
 }
